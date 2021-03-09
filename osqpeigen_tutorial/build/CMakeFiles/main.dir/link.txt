@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/MPC_example.cpp.o  -o bin/main -Wl,-rpath,/usr/local/lib /usr/local/lib/libOsqpEigen.so.0.6.1 /usr/local/lib/libosqp.so 

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/whz/osqp_tutorial/main.cpp
+iostream
+-
+osqp/osqp.h
+/home/whz/osqp_tutorial/osqp/osqp.h
+

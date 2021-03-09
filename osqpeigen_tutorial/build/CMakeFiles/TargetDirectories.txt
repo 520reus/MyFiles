@@ -1,0 +1,3 @@
+/home/whz/osqpeigen_tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/whz/osqpeigen_tutorial/build/CMakeFiles/main.dir
+/home/whz/osqpeigen_tutorial/build/CMakeFiles/edit_cache.dir
